@@ -1,0 +1,19 @@
+@media only screen and (max-width: 600px) {
+   nav .navbar .menu ul li{
+    display: none;
+   }
+   .menu .menubtn i{
+    display: block;
+   }
+}
+@media only screen and (max-width: 1050px){
+    nav .navbar{
+    padding: 0 18px;
+   }
+   .menu .menubtn i{
+    font-size: 20px;
+   }
+   nav .thelogo img{
+    width: 20px;
+   }
+}
